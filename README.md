@@ -1,4 +1,4 @@
-# dix-oblivionpill
+# dix-oblivionpill - Oblivion Pill // Pilule de l'oubli
 
 ## Installation
 - Download the script
