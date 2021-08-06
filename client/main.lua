@@ -8,7 +8,6 @@ end)
 
 Citizen.CreateThread(function()
     while true do
-		print(pillused)
         Citizen.Wait(0)
         if pillused == true then
 
