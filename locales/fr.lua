@@ -1,4 +1,4 @@
 Locales ['fr'] = {
-	['oblivionpill_used'] = 'Vous prenez une ~b~pilule de l\'oubli~w~.',
-	['fall_oubli'] = '~b~Vous tombez dans l\'oubli...',
+	['oblivionPill_used'] = 'Vous prenez une ~b~pilule de l\'oubli~w~.',
+	['oblivionPill_fall'] = '~b~Vous tombez dans l\'oubli...',
 }
